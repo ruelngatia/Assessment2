@@ -8,6 +8,7 @@ function squareRoot(value){
 
     console.log(Math.sqrt(value).toFixed(0));
 
+
 }
 
 squareRoot(3)

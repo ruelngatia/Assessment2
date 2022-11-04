@@ -13,4 +13,5 @@ function palindrome(value){
     
 }
 
-console.log("Is the value palindrome ".concat(palindrome('121')))
+console.log("Is the inputed value palindrome ".concat(palindrome('121')))
+console.log("Is the inputed value palindrome ".concat(palindrome('-121')))

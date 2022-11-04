@@ -26,4 +26,4 @@ function reverseVowels(string){
     return newString.join('');
 }
 
-console.log(reverseVowels('hEllo'));
+console.log(reverseVowels('hello'));
